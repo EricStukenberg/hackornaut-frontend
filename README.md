@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Start APP by typing 
->npm start into the console
+>npm start
+into the console
 
 Then login by just typing any username (no actual validation)
 Then use the site!
